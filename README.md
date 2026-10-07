@@ -1,16 +1,16 @@
-## Hi there 👋
+Joaquín Sierra Estévez
+Full-stack developer focused on backend development with Python. Currently an intern at AyronOne, working with FastAPI and React.
 
-<!--
-**joaquinsierra-e/joaquinsierra-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+Backend: Python · FastAPI · Alembic · Celery · Java Frontend: React · Vite · Next.js · TypeScript · Tailwind CSS · Shadcn/ui Infrastructure and Tooling: Docker · Docker Compose · Git · GitHub AI: Ollama · LangChain
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects
+TeamG-IA: Local AI assistant built with Next.js, LangChain and Ollama (Qwen 2.5 7B), containerized with Docker Compose.
+seminare-tp2: Commercial and logistics management system in Java, developed for the Computer Science Practice Seminar.
+Currently Learning
+API design with FastAPI and database migrations with Alembic
+Asynchronous task processing with Celery
+Testing practices and CI
+Contact
+LinkedIn: www.linkedin.com/in/joaquin-sierra-estévez-5a830536a
+Email: joaquinsierra14@hotmail.com
